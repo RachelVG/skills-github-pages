@@ -2,7 +2,7 @@
 title: "How to Write a Blog"
 date: 2025-05-30
 ---
-#Steps#
+# Steps
 1. Understand your audience
 2. Write compelling headlines
 3. Keep it conversational
